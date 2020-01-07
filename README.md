@@ -1,4 +1,5 @@
 # scalaWork
 my experiments with scala
 
-installed sbt console
+installed sbt console 
+*pushed first line*
